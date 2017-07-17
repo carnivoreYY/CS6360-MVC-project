@@ -1,0 +1,10 @@
+body {
+	background: url(http://media-cdn.tripadvisor.com/media/photo-s/07/31/7c/d0/trinity-college-library.jpg);
+	background-size: cover;
+	font-family: Lato;
+	color: white;
+}
+#content {
+	text-align: center;
+	padding-top: 10%;
+}
